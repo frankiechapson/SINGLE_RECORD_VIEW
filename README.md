@@ -43,7 +43,7 @@ Result:
     C_INTEGER                   2
     C_NCHAR	                    árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP
     C_NUMBER                    3
-    C_NVARCHAR2	                árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP
+    C_NVARCHAR2                 árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP
     C_REAL                      33,1415
     C_SMALLINT                  1
     C_TIMESTAMP                 2018.09.03 13:20:38.473000
