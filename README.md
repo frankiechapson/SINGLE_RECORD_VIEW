@@ -53,20 +53,20 @@ Result:
 
 Where ALL_TYPES is:
 
-    CREATE TABLE all_types ( c_smallint              SMALLINT PRIMARY KEY,
-                           , c_integer               INTEGER,
-                           , c_real                  REAL,
-                           , c_float                 FLOAT(126),
-                           , c_double                DOUBLE PRECISION,
-                           , c_bigdecimal            DECIMAL(13,0),
-                           , c_number                NUMBER(3,2),
-                           , c_varchar2              VARCHAR2(254),
-                           , c_nvarchar2             NVARCHAR2(254),
-                           , c_varchar               VARCHAR(254),
-                           , c_char                  CHAR(254),
-                           , c_nchar                 NCHAR(254),
-                           , c_date                  DATE,
-                           , c_timestamp             TIMESTAMP(6),
+    CREATE TABLE all_types ( c_smallint              SMALLINT PRIMARY KEY
+                           , c_integer               INTEGER
+                           , c_real                  REAL
+                           , c_float                 FLOAT(126)
+                           , c_double                DOUBLE PRECISION
+                           , c_bigdecimal            DECIMAL(13,0)
+                           , c_number                NUMBER(3,2)
+                           , c_varchar2              VARCHAR2(254)
+                           , c_nvarchar2             NVARCHAR2(254)
+                           , c_varchar               VARCHAR(254)
+                           , c_char                  CHAR(254)
+                           , c_nchar                 NCHAR(254)
+                           , c_date                  DATE
+                           , c_timestamp             TIMESTAMP(6)
                            , c_timestamp_tz          TIMESTAMP(6) WITH TIME ZONE
                            );
 
