@@ -36,12 +36,12 @@ Result:
     COLUMN_NAME                 COL_VALUE
     ------------                -------------------------------------------
     C_BIGDECIMAL                22
-    C_CHAR                      árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP                                                                                                                                                                                                  
+    C_CHAR                      árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP
     C_DATE                      2018.09.03 13:20:38
     C_DOUBLE                    11
     C_FLOAT                     1415
     C_INTEGER                   2
-    C_NCHAR	                    árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP                                                                                                                                                                                                                    
+    C_NCHAR	                    árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP
     C_NUMBER                    3
     C_NVARCHAR2	                árvíztűrőtükörfúrógépÁRVÍZTŰRŐTÜKÖRFÚRÓGÉP
     C_REAL                      33,1415
